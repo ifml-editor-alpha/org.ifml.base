@@ -5,7 +5,7 @@ import com.google.common.base.CaseFormat;
 import com.google.common.base.CharMatcher;
 
 /**
- * Utility class for converting between various ASCII case formats, inspired by {@link CaseFormat}.
+ * Utility class for converting between various ASCII case formats, inspired by Guava {@link CaseFormat}.
  */
 public enum WordFormat {
 
