@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IFML Java Base Library
+Bundle-SymbolicName: org.ifml.base
+Bundle-Version: 0.1.0.qualifier
+Bundle-Vendor: WebRatio s.r.l.
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.ifml.lib.google.guava
+Export-Package: org.ifml.base,
+ org.ifml.base.annotations
